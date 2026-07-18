@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img with="14" />
+  <img width="14" />
   
 </div>
 
