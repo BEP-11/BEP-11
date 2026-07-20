@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <img width="14"/>
 </div>
 
 ###
