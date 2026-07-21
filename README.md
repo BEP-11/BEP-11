@@ -68,3 +68,8 @@
 </p>
 
 </p>
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEP-11/BEP-11/main/github-contribution-grid-snake.svg" alt="Snake Game" width="60%" />
+</p>
+
