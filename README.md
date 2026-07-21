@@ -66,14 +66,5 @@
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=BEP-11&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
-<details>
-  <summary>Кликни, чтобы открыть/закрыть змейку</summary>
-  
-  ## 🐍 Snake Game
-  
-  <!-- Здесь должен быть код для скрипта -->
-  
-  [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Gleb-Kovalenko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 </p>
