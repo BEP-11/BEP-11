@@ -1,1 +1,35 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Обновление каждые 6 часов
+  workflow_dispatch: # Кнопка запуска вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Разрешение на запись файлов в репо
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Generate Snake
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: BEP-11 # ВАШ ЛОГИН
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+
+    - name: Copy to root
+      run: cp dist/github-contribution-grid-snake.svg .
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add github-contribution-grid-snake.svg
+        git commit -m "🐍 Snake Animation Update" || exit 0
+        git push
 
