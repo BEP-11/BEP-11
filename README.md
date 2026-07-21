@@ -32,6 +32,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="14" />
   
 </div>
 
