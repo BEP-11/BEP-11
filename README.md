@@ -52,8 +52,8 @@
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
   <img width="14">
-  <div align="center"> <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="14">
   
   
   
