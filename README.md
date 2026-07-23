@@ -67,4 +67,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=BEP-11&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BEP-11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
