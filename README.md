@@ -59,10 +59,8 @@
   
 
 
-<div>
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=BEP-11&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BEP-11&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
-</div>
 
 
