@@ -55,9 +55,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="14">
   
-  
-  
-  </div>
+
   
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=BEP-11&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
