@@ -62,7 +62,5 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BEP-11&theme=github-dark-dimmed&custom_title=BEP-11%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🐍 Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/BEP-11/BEP-11/main/snake.gif)
 
