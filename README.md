@@ -62,3 +62,9 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BEP-11&theme=github-dark-dimmed&custom_title=BEP-11%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/contributions-snake?username=BEP-11&show=1&hide_title=true" />
+</p>
+
