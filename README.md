@@ -64,7 +64,5 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/contributions-snake?username=BEP-11&show=1&hide_title=true" />
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/BEP-11/BEP-11/main/snake.gif)
 
