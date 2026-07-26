@@ -56,9 +56,9 @@
   <img width="14">
   
   <div align="centre">
-  <img src="https://skillicons.dev/icons?i=AI" height="40" alt="AI">
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai">
   <img width="14">
-  </div>
+  
 ![Snake animation](https://raw.githubusercontent.com/BEP-11/BEP-11/output/github-snake.svg)
 
 <div align="center">
