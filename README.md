@@ -54,6 +54,10 @@
   <img width="14">
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="14">
+  
+  <div align="centre">
+  <img src="https://skillicons.dev/icons?i=AI" height="40" alt="AI">
+  <img width="14">
 
 ![Snake animation](https://raw.githubusercontent.com/BEP-11/BEP-11/output/github-snake.svg)
 
