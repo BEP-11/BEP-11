@@ -14,9 +14,9 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="14" />>
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
+  <img width="14" /
 
 
 </div>
