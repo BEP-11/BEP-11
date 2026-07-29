@@ -58,6 +58,9 @@
   
 ![Snake animation](https://raw.githubusercontent.com/BEP-11/BEP-11/output/github-snake.svg)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BEP-11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BEP-11&theme=github-dark-dimmed&custom_title=BEP-11%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
