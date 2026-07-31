@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"  />
-  <img width="14" /
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
