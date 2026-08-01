@@ -1,4 +1,4 @@
-<h1 align="center"> BEP-11(AK.AKZO) / novice cybersecurity specialist </h1>
+<h1 align="center"> BEP-11(AK.AKZO / novice cybersecurity specialist </h1>
 
 ###
 
